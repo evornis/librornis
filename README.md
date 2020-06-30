@@ -26,7 +26,7 @@ semana del NAOC
 * Cap 9. Social Selection (Lidera: )
 
 ### Lunes 7 septiembre
-* Cap 10. Social selection and the evolution of song (Lidera: )
+* Cap 10. Social selection and the evolution of song (Lidera: Nelsy Niño)
 * Cap 11. Divergence in response to increased sexual selection (Lidera: )
 
 ### Lunes 21 septiembre
@@ -38,7 +38,7 @@ semana del NAOC
 * Cap 15. Hybrid zones (Lidera: )
 
 ### Lunes 19 octubre
-* Cap 16. Genetic incompatibility (Lidera: )
+* Cap 16. Genetic incompatibility (Lidera: Sebastián Tabares)
 * Cap 17. Conclusions
 
 ### fecha por definir
