@@ -13,8 +13,9 @@ Reunión virtual quincenal para leer, disectar y discutir ideas sobre dos capít
 Lideran: Natalia Pérez y Juliana Soto
 
 ### Lunes 27 julio
-* Cap 4. Parapatric Speciation (Lidera: )
-* Cap 5. Ecological speciation (Lidera: )
+* Cap 4. Parapatric speciation
+* Cap 5. Ecological speciation
+Lideran: Natalia Trujillo-Arias y Jórge Pérez-Emán
 
 ### Lunes 10 agosto
 semana del NAOC
