@@ -40,3 +40,7 @@ semana del NAOC
 ### Lunes 19 octubre
 * Cap 16. Genetic incompatibility (Lidera: )
 * Cap 17. Conclusions
+
+### fecha por definir
+* Charla y discusión con Trevor Price
+
