@@ -14,7 +14,7 @@ Lideran: Natalia Pérez y Juliana Soto
 
 ### Lunes 27 julio
 * Cap 4. Parapatric speciation
-* Cap 5. Ecological speciation
+* Cap 5. Ecological speciation\
 Lideran: Natalia Trujillo-Arias y Jórge Pérez-Emán
 
 ### Lunes 10 agosto
