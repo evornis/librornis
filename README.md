@@ -8,8 +8,9 @@ Reunión virtual quincenal para leer, disectar y discutir ideas sobre dos capít
 * Cap 1. Introduction
 
 ### Lunes 13 julio 
-* Cap 2. Geography and Ecology (Lidera: )
-* Cap 3. Geographical variation (Lidera: )
+* Cap 2. Geography and Ecology
+* Cap 3. Geographical variation
+Lideran: Natalia Pérez y Juliana Soto
 
 ### Lunes 27 julio
 * Cap 4. Parapatric Speciation (Lidera: )
