@@ -1,7 +1,5 @@
-# librornis 2020
-
-# Cronograma club de lectura Librornis
-Speciation in Birds, de Trevor D. Price (2008)
+# Cronograma club de lectura Librornis 2020
+Speciation in Birds. Trevor D. Price (2008)
 
 ### Capítulos
 
