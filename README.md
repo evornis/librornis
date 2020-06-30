@@ -24,7 +24,7 @@ semana del NAOC
 * Cap 9. Social Selection (Lidera: )
 
 ### Lunes 7 septiembre
-* Cap 10. Social selection and the evolution of song (Lidera: ) - semana del NAOC
+* Cap 10. Social selection and the evolution of song (Lidera: )
 * Cap 11. Divergence in response to increased sexual selection (Lidera: )
 
 ### Lunes 21 septiembre
