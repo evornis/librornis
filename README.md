@@ -36,7 +36,7 @@ semana del NAOC
 
 ### Lunes 5 octubre
 * Cap 14. Mate choice at the end of speciation (Lidera: )
-* Cap 15. Hybrid zones (Lidera: )
+* Cap 15. Hybrid zones (Lidera: Paola Pulido-Santacruz)
 
 ### Lunes 19 octubre
 * Cap 16. Genetic incompatibility (Lidera: Sebastián Tabares)
