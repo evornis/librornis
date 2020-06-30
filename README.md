@@ -18,7 +18,7 @@ Lideran: Natalia Pérez y Juliana Soto
 
 ### Lunes 10 agosto
 semana del NAOC
-* Cap 6. Ecological controls and speciation on continents (Lidera: )
+* Cap 6. Ecological controls and speciation on continents (Lidera: Paola Montoya)
 * Cap 7. Behavior and ecology (Lidera: )
 
 ### Lunes 24 agosto
