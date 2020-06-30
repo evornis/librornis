@@ -9,7 +9,7 @@ Reunión virtual quincenal para leer, disectar y discutir ideas sobre dos capít
 
 ### Lunes 13 julio 
 * Cap 2. Geography and Ecology
-* Cap 3. Geographical variation
+* Cap 3. Geographical variation\
 Lideran: Natalia Pérez y Juliana Soto
 
 ### Lunes 27 julio
