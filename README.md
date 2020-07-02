@@ -32,7 +32,7 @@ semana del NAOC
 
 ### Lunes 21 septiembre
 * Cap 12. Social selection and ecology (Lidera: )
-* Cap 13. Species recognition (Lidera: )
+* Cap 13. Species recognition (Lidera: Andrés F. Sierra Ricaurte)
 
 ### Lunes 5 octubre
 * Cap 14. Mate choice at the end of speciation (Lidera: )
