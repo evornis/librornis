@@ -10,18 +10,18 @@ Reunión virtual quincenal para leer, disectar y discutir ideas sobre dos capít
 ### Lunes 13 julio 
 * Cap 2. Geography and Ecology
 * Cap 3. Geographical variation\
-Lideran: Natalia Pérez y Juliana Soto
+(Lideran: Natalia Pérez y Juliana Soto)
 
 ### Lunes 27 julio
 * Cap 4. Parapatric speciation
 * Cap 5. Ecological speciation\
-Lideran: Natalia Trujillo-Arias y Jórge Pérez-Emán
+(Lideran: Natalia Trujillo-Arias y Jórge Pérez-Emán)
 
 ### Lunes 10 agosto
 [semana del NAOC]
 * Cap 6. Ecological controls and speciation on continents
 * Cap 7. Behavior and ecology\
-Lideran: Paola Montoya y Carlos Esteban Lara
+(Lideran: Paola Montoya y Carlos Esteban Lara)
 
 ### Lunes 24 agosto
 * Cap 8. Geographical isolation and the causes of island endemism (Lidera: )
