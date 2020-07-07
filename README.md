@@ -32,8 +32,9 @@ Reunión virtual quincenal para leer, disectar y discutir ideas sobre dos capít
 * Cap 11. Divergence in response to increased sexual selection (Lidera: )
 
 ### Lunes 21 septiembre
-* Cap 12. Social selection and ecology (Lidera: )
-* Cap 13. Species recognition (Lidera: Andrés F. Sierra Ricaurte)
+* Cap 12. Social selection and ecology
+* Cap 13. Species recognition\
+(Lideran: Jenny Muñoz y Andrés F. Sierra Ricaurte)
 
 ### Lunes 5 octubre
 * Cap 14. Mate choice at the end of speciation (Lidera: )
