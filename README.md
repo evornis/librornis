@@ -28,7 +28,7 @@ Reunión virtual quincenal para leer, disectar y discutir ideas sobre dos capít
 * Cap 9. Social Selection (Lidera: )
 
 ### Lunes 7 septiembre
-* Cap 10. Social selection and the evolution of song (Lidera: Nelsy Niño)
+* Cap 10. Social selection and the evolution of song
 * Cap 11. Divergence in response to increased sexual selection\
 (Lideran: Nelsy Niño y Jorge E. Avendaño)
 
