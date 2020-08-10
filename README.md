@@ -26,7 +26,7 @@ No hay sesión. Semana del VII NAOC
 (Lideran: Paola Montoya y Carlos Esteban Lara)
 
 ### Lunes 7 septiembre
-* Cap 8. Geographical isolation and the causes of island endemism (Lidera: )
+* Cap 8. Geographical isolation and the causes of island endemism (Lidera: David Ocampo)
 * Cap 9. Social Selection (Lidera: )
 
 ### Lunes 21 septiembre
