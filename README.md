@@ -21,9 +21,8 @@ Reunión virtual quincenal para leer, disectar y discutir ideas sobre dos capít
 No hay sesión. Semana del VII NAOC
 
 ### Lunes 24 agosto
-* Cap 6. Ecological controls and speciation on continents
-* Cap 7. Behavior and ecology\
-(Lideran: Paola Montoya y Carlos Esteban Lara)
+* Cap 6. Ecological controls and speciation on continents (Lidera: Paola Montoya)
+* Cap 7. Behavior and ecology (Lidera: )
 
 ### Lunes 7 septiembre
 * Cap 8. Geographical isolation and the causes of island endemism (Lidera: David Ocampo)
