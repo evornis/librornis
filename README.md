@@ -39,11 +39,11 @@ No hay sesión. Semana del VII NAOC
 * Cap 13. Species recognition\
 (Lideran: Jenny Muñoz y Andrés F. Sierra Ricaurte)
 
-### Lunes 19 octubre
+### Lunes 26 octubre
 * Cap 14. Mate choice at the end of speciation (Lidera: )
 * Cap 15. Hybrid zones (Lidera: Paola Pulido-Santacruz)
 
-### Lunes 2 noviembre
+### Lunes 9 noviembre
 * Cap 16. Genetic incompatibility (Lidera: Sebastián Tabares)
 * Cap 17. Conclusions
 
